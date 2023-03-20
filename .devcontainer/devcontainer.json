@@ -7,6 +7,11 @@
       "description": "This is the description of the secret.",
       "documentationUrl": "https://example.com/link/to/info"
     },
-    "NAME_OF_SECRET_2": { }
+    "NAME_OF_SECRET_2": { },
+    "NAME_OF_SECRET_3": {
+      "description": "This is the description of the secret.",
+      "documentationUrl": "https://example.com/link/to/info"
+    },
+    "NAME_OF_SECRET_4": { }
   }
 }
