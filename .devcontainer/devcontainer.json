@@ -12,6 +12,7 @@
       "description": "This is the description of the secret.",
       "documentationUrl": "https://example.com/link/to/info"
     },
-    "NAME_OF_SECRET_4": { }
+    "NAME_OF_SECRET_4": { },
+    "HUBWRITER_TEST_SECRET": { }
   }
 }
