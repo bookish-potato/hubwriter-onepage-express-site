@@ -2,17 +2,18 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
   },
-  "secrets": {
-    "NAME_OF_SECRET_1": {
+"secrets": {
+    "NAME_OF_SECRET_1": { },
+    "NAME_OF_SECRET_2": {
       "description": "This is the description of the secret.",
       "documentationUrl": "https://example.com/link/to/info"
     },
-    "NAME_OF_SECRET_2": { },
     "NAME_OF_SECRET_3": {
-      "description": "This is the description of the secret.",
+      "description": "Another secret you should set for this project.",
       "documentationUrl": "https://example.com/link/to/info"
     },
-    "NAME_OF_SECRET_4": { },
-    "HUBWRITER_TEST_SECRET": { }
+    "NAME_OF_SECRET_3": {
+      "description": "Another recommended secret."
+    }
   }
 }
